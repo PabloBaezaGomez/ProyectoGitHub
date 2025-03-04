@@ -14,7 +14,7 @@ public class Login {
     public boolean autenticar(String usuario, String contraseña) {
 
         // Implementa la lógica de autenticación
-        return false;
+        return true;
         
     }
 }
