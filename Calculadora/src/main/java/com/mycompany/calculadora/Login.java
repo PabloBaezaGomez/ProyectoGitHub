@@ -12,7 +12,7 @@ public class Login {
     // Añade un método para simular un login
 
     public boolean autenticar(String usuario, String contraseña) {
-        boolean bool = false;
+        boolean bool = true;
         // Implementa la lógica de autenticación
         return bool;
         
